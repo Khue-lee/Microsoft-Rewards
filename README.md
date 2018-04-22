@@ -6,3 +6,6 @@ Microsoft-Rewards formly known as Bing-Rewards, allows you to exchange points fo
 
 # Where is the script?
 Wrote the script in microsoftRewards/src/test/java/com/abstracts/
+
+#Uses
+Selenium - a software-testing framework
